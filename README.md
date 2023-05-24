@@ -8,6 +8,7 @@ user can create a random password. Custimize password setting according to using
 
 ## Link to deployed site
 
+https://dsstad.github.io/Password_Generator/
 
 ## Mock Up Screen Shot
 
